@@ -1,4 +1,6 @@
 {
+  "name": "vitesse-nuxt3",
+  "description": "vitesse-nuxt3 description",
   "private": true,
   "packageManager": "pnpm@7.9.0",
   "scripts": {
